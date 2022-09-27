@@ -1,0 +1,16 @@
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.exe
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.deps.json
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.dll
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\ref\Task1.dll
+E:\Технологии программирования\Lab1\Task1\bin\Debug\net5.0\Task1.pdb
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.dll
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\ref\Task1.dll
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.pdb
+E:\Технологии программирования\Lab1\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
